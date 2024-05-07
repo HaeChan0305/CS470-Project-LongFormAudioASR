@@ -1,6 +1,7 @@
-# What is the best LLM Chatbot in South Korea?
+# Accurate long-form audio transcription via voice activity detection and forced alignment
 This is the final project for Professor [Daehyung Park](https://sites.google.com/site/daehyungpark)'s course, **CS470: Introduction to Artificial Intelligence**, in **KAIST**.
 Check our poster [poster](https://drive.google.com/file/d/1DkdCQA2iFCr-5cryAgEMVAc2QEJIi1Jh/view?usp=sharing).
+
 
 ## Problem Formulation
 Progress in speech recognition has been boosted by the development of weakly supervised pre-training techniques exemplified by Whisper (Radford et al., 2022). Despite Whisper’s remarkable results in various experiments, there are still some chronic problems in the field of speech recognition.
